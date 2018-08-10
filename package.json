@@ -18,12 +18,12 @@
     "redux-thunk": "^2.2.0"
   },
   "scripts": {
-    "deploy": "node --version",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
-  },
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+  }
+
 }
