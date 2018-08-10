@@ -25,5 +25,4 @@
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   }
-
 }
