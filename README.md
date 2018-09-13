@@ -28,6 +28,7 @@
 <h3>Programs</h3>
 <ul>
 	<li>Heroku</li>
+</ul>
 
 <h2>Live Link</h2>
 <p>An updated version of this website can be found at: <a href="https://obscure-ocean-26405.herokuapp.com/">https://obscure-ocean-26405.herokuapp.com</a></p>
