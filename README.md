@@ -2,7 +2,7 @@
 
 <p>An interactive application built with <a href="https://react.js.org">React</a>.
 
-![homepage](https://github.com/venniechang/node-capstone-project/blob/master/public/images/homepage.jpg)
+![homepage](https://i.imgur.com/4cMp93x.png)
 
 <h2>What is Guess The Number?</h2>
 <p>This interactive game allows users to keep guessing until they guess the correct number!</p>
