@@ -1,9 +1,8 @@
 {
-  "name": "hot-cold",
+  "name": "guess-the-number",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:8080/",
-  "homepage": "http://venniechang.github.io/guess-the-number",
   "devDependencies": {
     "enzyme": "^3.1.1",
     "gh-pages": "^1.2.0",
