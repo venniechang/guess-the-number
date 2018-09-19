@@ -20,7 +20,7 @@ html {
 }
 
 body {
-  width: 40rem;
+  max-width: 40rem;
   height: auto;
   padding: 0;
   margin: 3rem auto;
