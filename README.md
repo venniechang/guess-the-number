@@ -31,7 +31,7 @@
 </ul>
 
 <h2>Live Link</h2>
-<p>An updated version of this website can be found at: <a href="https://obscure-ocean-26405.herokuapp.com/">https://obscure-ocean-26405.herokuapp.com</a></p>
+<p>An updated version of this website can be found at: <a href="https://reactguessinggame.herokuapp.com/">https://reactguessinggame.herokuapp.com/</a></p>
 
 <h2>Responsive Design</h2>
 <p>This website is created to be responsive in both desktop and mobile devices.</p>
